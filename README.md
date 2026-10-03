@@ -5,7 +5,7 @@
   Computer Engineer with 5+ years of experience building scalable, enterprise-level web applications across fintech, B2B e-commerce, and marketplace platforms. Specialized in modern React, Next.js, TypeScript, and Micro-Frontend Architectures (Webpack 5 Module Federation). Proven track record of optimizing application performance (Core Web Vitals), building core design systems (Ophelia), and designing resilient frontend architectures.
 </p>
 
-- 👨‍💻 All of my public projects are available at [GitHub Repositories](https://github.com/FurkanKilicer?tab=repositories)
+- 👨‍💻 All of my public projects are available at [GitHub Repositories](https://github.com/furkan-kilicer?tab=repositories)
 
 - 💬 Ask me about **React, Next.js (App Router & Pages Router), TypeScript, Micro-Frontends (Module Federation), Redux Toolkit, Performance Optimization, Design Systems & Ant Design**
 
@@ -32,10 +32,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkankilicer&theme=algolia" alt="Furkan Kılıçer Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-kilicer&theme=algolia" alt="Furkan Kılıçer Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkankilicer&show_icons=true&theme=algolia&hide_border=true" alt="Furkan Kılıçer GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankilicer&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furkan-kilicer&show_icons=true&theme=algolia&hide_border=true" alt="Furkan Kılıçer GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-kilicer&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
