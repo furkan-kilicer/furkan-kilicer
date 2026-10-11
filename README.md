@@ -42,9 +42,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
-<!-- Animasyonlu GitHub İstatistik Kartları -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan-kilicer&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Furkan's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=furkan-kilicer&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</p>
