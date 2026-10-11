@@ -3,7 +3,7 @@
 
 <!-- Animasyonlu Başlık Bandı (Capsule Render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=twinkling" alt="Header Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=twinkling&transparent=true" alt="Header Animation" />
 </p>
 
 <p align="left">
