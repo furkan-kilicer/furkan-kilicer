@@ -40,7 +40,7 @@
 <!-- Animasyonlu Katkı Grafiği (Snake Animation) -->
 <h4 align="center">🐍 My Contribution Graph</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/furkan-kilicer/furkan-kilicer/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <!-- Animasyonlu GitHub İstatistik Kartları -->
